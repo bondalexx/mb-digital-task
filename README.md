@@ -12,7 +12,7 @@ A small demo platform that meets the test task requirements:
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Course Catalog**: Fetch from mock API (`GET /courses`).  
 - **Player**: Modal with `<video>`.  
@@ -33,7 +33,7 @@ A small demo platform that meets the test task requirements:
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **React 18**, **TypeScript**  
 - **Redux Toolkit** (`@reduxjs/toolkit`, `react-redux`)  
@@ -43,7 +43,7 @@ A small demo platform that meets the test task requirements:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/bondalexx/mb-digital-task.git
